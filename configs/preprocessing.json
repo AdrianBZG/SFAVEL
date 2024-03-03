@@ -1,0 +1,5 @@
+{"root_path": "data",
+ "output_path": "data/preprocessed",
+ "fact_dataset": "FEVER",
+ "kg_dataset": "wikidata5m",
+ "language_model": "FacebookAI/roberta-base"}
